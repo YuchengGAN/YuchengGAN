@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Logan, and now I decide to change myself and work harder. 
+Lately, I have tried some ways to advance my research of the DS theory, which seems useless.
+So I turn to code everyday to provoke the interest in Computer Science.
+Now I'm finding ways to combine the DQN function and the DS theory, which contains many aspects to apply.
+Ok, that's all I want to say now.
+好好学习，天天向上！
 
 <!--
 **YuchengGAN/YuchengGAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
