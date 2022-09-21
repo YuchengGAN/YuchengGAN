@@ -5,7 +5,7 @@ So I turn to code everyday to provoke the interest in Computer Science.
 Now I'm finding ways to combine the DQN function and the DS theory, which contains many aspects to apply.
 Ok, that's all I want to say now.
 好好学习，天天向上！
-
+<!--
 <table>
   <tbody>
     <tr valign="top">
@@ -32,11 +32,8 @@ Ok, that's all I want to say now.
     </tr>
   </tbody>
 </table>
+-->
 
-作者：WangScaler
-链接：https://juejin.cn/post/7017714719989448718
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 <!--
 **YuchengGAN/YuchengGAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
